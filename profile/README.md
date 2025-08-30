@@ -3,11 +3,10 @@
 
 - 🔭 We are currently working on [TryCaze](https://trycaze.site/home)
 
-- 📫 How to reach us **trycaze@gmail.com**
+- 📫 How to reach us **trycaze@proton.me**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://twitter.com/trycaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trycaze" height="30" width="40" /></a>
 <a href="https://instagram.com/trycaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trycaze" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/trycaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trycaze" height="30" width="40" /></a>
 </p>
